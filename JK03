@@ -409,7 +409,7 @@ http://38.44.109.41:8003/play/a0cg
 http://45.70.201.253:8889/play/a0l2
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CQ1Md68/Discovery-Home-Health.png" group-title="→ DOCUMENTAL SD ←",DISCOVERY HOME & HEALTH SD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CQ1Md68/Discovery-Home-Health.png" group-title="→ DOCUMENTAL HD ←",DISCOVERY HOME & HEALTH HD
 http://38.44.109.41:8003/play/a0ff
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CQ1Md68/Discovery-Home-Health.png" group-title="→ DOCUMENTAL HD ←",DISCOVERY HOME & HEALTH HD
@@ -418,9 +418,6 @@ http://38.44.109.41:8003/play/a016
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8rF3yyk/ID.png" group-title="→ DOCUMENTAL HD ←",DISCOVERY ID HD
 http://38.44.109.41:8003/play/a02s
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8rF3yyk/ID.png" group-title="→ DOCUMENTAL SD ←",DISCOVERY ID SD
-http://38.44.109.41:8003/play/a0ck
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8rF3yyk/ID.png" group-title="→ DOCUMENTAL HD ←",DISCOVERY ID HD
 http://38.44.109.41:8003/play/a0i1
@@ -692,8 +689,11 @@ http://45.70.201.253:8889/play/a0kf
 http://181.78.192.238:8000/play/a2ae
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2jNCJRs/Gamavision.png" group-title="→ ENTRETENIMIENTO SD ←",GAMAVISION SD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2jNCJRs/Gamavision.png" group-title="→ ENTRETENIMIENTO HD ←",GAMAVISION HD
 http://38.44.109.41:8003/play/a0ea
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2jNCJRs/Gamavision.png" group-title="→ ENTRETENIMIENTO HD ←",GAMAVISION HD
+http://204.199.242.203:58000/play/a02a
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/m9Jy8Kk/Global.png" group-title="→ ENTRETENIMIENTO HD ←",GLOBAL PE HD
@@ -734,9 +734,6 @@ http://170.244.209.30:8000/play/a0jn
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wST0S2X/Guatevision.png" group-title="→ ENTRETENIMIENTO HD ←",GUATEVISION HD
 http://181.78.192.238:8000/play/a2cw
 
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tD175nd/HBO.png" group-title="→ CINE & SERIES SD ←",HBO SD
-http://38.44.109.41:8003/play/a0gx
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tD175nd/HBO.png" group-title="→ CINE & SERIES HD ←",HBO HD
 http://38.44.109.41:8003/play/a0gn
@@ -1064,9 +1061,6 @@ http://45.239.49.156:8000/play/a0j8
 http://45.173.229.190:8083/play/a0vp
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dcJbMsy/sony.png" group-title="→ CINE & SERIES SD ←",SONY CHANNEL SD
-http://38.44.109.41:8003/play/a0fh
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dcJbMsy/sony.png" group-title="→ CINE & SERIES HD ←",SONY CHANNEL HD
 http://38.44.109.41:8003/play/a0hy
 
@@ -1113,9 +1107,6 @@ http://38.44.109.41:8003/play/a03e
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0XwNm7Z/Studio-Universal.png" group-title="→ CINE & SERIES HD ←",STUDIO UNIVERSAL HD
 http://38.44.109.41:8003/play/a0bz
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0XwNm7Z/Studio-Universal.png" group-title="→ CINE & SERIES SD ←",STUDIO UNIVERSAL SD
-http://38.44.109.41:8003/play/a0c9
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0XwNm7Z/Studio-Universal.png" group-title="→ CINE & SERIES HD ←",STUDIO UNIVERSAL HD
 http://45.70.201.253:8889/play/a0g7
