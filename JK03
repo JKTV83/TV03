@@ -402,9 +402,6 @@ http://181.78.192.238:8000/play/a2c7
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QvKTxbf/discovery.png" group-title="→ DOCUMENTAL HD ←",DISCOVERY CHANNEL HD
 http://38.44.109.41:8003/play/a01e
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/QvKTxbf/discovery.png" group-title="→ DOCUMENTAL SD ←",DISCOVERY CHANNEL SD
-http://38.44.109.41:8003/play/a0cg
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QvKTxbf/discovery.png" group-title="→ DOCUMENTAL HD ←",DISCOVERY CHANNEL HD
 http://45.70.201.253:8889/play/a0l2
 
